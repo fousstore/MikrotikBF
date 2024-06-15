@@ -1,5 +1,5 @@
 # Obfuscated with PyObfuscate
-#ENCRYPTED BY :ANONYMOUS U7P4L
+#ENCRYPTED BY : KENXX STORE 
 #VERSION :ALPHA
 #GITHUB : https://github.com/U7P4L-IN
 #FEEL THE POWER OF U7P4L...
